@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594987237 source:c:\users\miraj\desktop\codevita\groovingmoney\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594993315 source:c:\users\miraj\desktop\codevita\groovingmoney\groovingmonkey.c
+	<stdio.h>
+	<stdlib.h>
+
